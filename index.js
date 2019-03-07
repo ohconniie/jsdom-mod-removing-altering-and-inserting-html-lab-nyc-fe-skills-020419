@@ -10,3 +10,4 @@ newHeader.id = "victory"
 // <h1 style="background-color: red">
 // <h1 id="victory"></h1>
 newHeader.innerHTML = "Not sure what is going on"
+document.body.appendChild(element)
